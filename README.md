@@ -1,6 +1,3 @@
-# AI
-AI Artifacts
-
 # 🧠 AI Repository
 
 Welcome to the **AI Repository** — a centralized collection of prompts, scripts, and documents designed to support AI development, experimentation, and automation workflows.
