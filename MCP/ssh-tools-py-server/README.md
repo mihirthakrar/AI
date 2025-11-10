@@ -130,7 +130,7 @@ No `approved` required because this is read-only.
 
 ### 3) GoldenGate health (classic, as oracle)
 
-If GoldenGate lives at `/home/oracle/ggs`, you can query:
+If GoldenGate lives at `/home/oracle/gg_home`, you can query:
 
 ```json
 {
@@ -140,7 +140,7 @@ If GoldenGate lives at `/home/oracle/ggs`, you can query:
     "host": "10.0.0.10",
     "username": "root",
     "password": "********",
-    "script": "#!/bin/bash\nset -e\nsu - oracle -c \"printf 'info all\\nexit\\n' | /home/oracle/ggs/ggsci\"\n",
+    "script": "#!/bin/bash\nset -e\nsu - oracle -c \"printf 'info all\\nexit\\n' | /home/oracle/gg_home/ggsci\"\n",
     "timeoutSec": 90
   }
 }
