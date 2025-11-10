@@ -13,6 +13,7 @@ This repository contains various resources used in AI workflows, such as:
 | **Prompts**   | Curated prompt templates and examples for LLMs (ChatGPT, Claude, Gemini, etc.). |
 | **Scripts**   | Python and shell scripts for model interaction, automation, and data preprocessing. |
 | **Documents** | Research notes, design docs, and guides related to AI tools and development practices. |
+| **MCP Servers**| MCP Servers code and docker files.                                             |
 
 ---
 
